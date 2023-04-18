@@ -1,2 +1,2 @@
 # Interest-Calculator
-This ismy coursera project for a simple interest calculator.
+This ismy coursera project for a simple interest calculator .
